@@ -1,0 +1,9 @@
+{
+  "name": "@my-lerna-app/lerna-app-client",
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@my-lerna-app/lerna-app-server": "^0.0.0",
+    "axios": "^0.21.1"
+  }
+}

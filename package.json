@@ -1,0 +1,16 @@
+{
+  "name": "my-lerna-app",
+  "version": "1.0.0",
+  "description": "app to learn lerna",
+  "main": "index.js",
+  "author": "Ore Akintobi",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^4.0.0",
+    "lodash": "^4.17.21"
+  },
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}

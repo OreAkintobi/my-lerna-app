@@ -1,0 +1,8 @@
+{
+  "name": "@my-lerna-app/lerna-app-server",
+  "version": "0.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "husky": "^6.0.0"
+  }
+}
